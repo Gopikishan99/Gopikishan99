@@ -1,4 +1,4 @@
-![MasterHead]("C:\Users\hp\Downloads\gitmast.jpg")
+![MasterHead]()
 <h1 align="center">Hi 👋, I'm Gopi Kishan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
